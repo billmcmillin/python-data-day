@@ -101,4 +101,7 @@ ENV/
 .mypy_cache/
 
 # data
-data/*
+sample/data/*
+
+# vim
+*.swp
