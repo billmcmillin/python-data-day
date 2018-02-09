@@ -6,7 +6,7 @@ Working knowledge of Python and basic programming concepts. If you can write a f
 
 For a quick brush-up on programming concepts, see [Data Carpentry's Short Introduction to Programming in Python](http://www.datacarpentry.org/python-ecology-lesson/00-short-introduction-to-Python/)
 
-You'll also want to be familiar with the basics of working with the command line. Mac users will use Terminal and Windows users can either use Command Line or download Git Bash at [https://openhatch.org/missions/windows-setup/install-git-bash](https://openhatch.org/missions/windows-setup/install-git-bash)
+You'll also want to be familiar with the basics of working with the command line. Mac users will use Terminal and Windows users can either use Command Line or follow the instructions to install Git Bash at [https://openhatch.org/missions/windows-setup/install-git-bash](https://openhatch.org/missions/windows-setup/install-git-bash)
 
 ### Installation and Setup
 
