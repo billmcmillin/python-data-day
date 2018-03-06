@@ -12,6 +12,10 @@ You'll also want to be familiar with the basics of working with the command line
 
 Instructions for getting everything up and running on your computer can be found here: [Data Carpentry Python Setup](http://www.datacarpentry.org/python-ecology-lesson/setup/)
 
+####Key installation commands
+* Requires python3 and pip3
+* ```pip3 install numpy pandas matplotlib jupyter scipy```
+
 ### [Session 1 - Data Analysis with Python](https://github.com/billmcmillin/python-data-day/blob/master/session1.md)
 
 ### [Session 2 - Data Visualization with Python](https://github.com/billmcmillin/python-data-day/blob/master/session2.md)
